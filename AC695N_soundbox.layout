@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Release" />
+	<File name="apps\soundbox\board\br23\board_ac695x_demo\board_ac695x_demo.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="35743" topLine="1110" />
+		</Cursor>
+	</File>
+	<File name="apps\soundbox\include\app_main.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3081" topLine="69" />
+		</Cursor>
+	</File>
+	<File name="apps\soundbox\sdk_version.z.S" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="121" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="apps\common\dev_manager\dev_manager.c" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="15" />
+		</Cursor>
+	</File>
+	<File name="apps\common\bt_common\bt_test_api.c" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="apps\soundbox\common\init.c" open="1" top="1" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3800" topLine="154" />
+		</Cursor>
+	</File>
+	<File name="apps\soundbox\board\br23\board_ac6954a_demo\board_ac6954a_demo.c" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1371" topLine="156" />
+		</Cursor>
+	</File>
+	<File name="apps\common\iap\iAP_des.c" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="696" topLine="16" />
+		</Cursor>
+	</File>
+	<File name="apps\soundbox\board\br23\board_ac6954a_demo\board_ac6954a_demo_cfg.h" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="11157" topLine="429" />
+		</Cursor>
+	</File>
+	<File name="apps\common\dev_manager\dev_update.c" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3499" topLine="294" />
+		</Cursor>
+	</File>
+	<File name="apps\common\third_party_profile\jieli\le_client_demo.c" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="8104" topLine="222" />
+		</Cursor>
+	</File>
+	<File name="apps\soundbox\app_main.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2798" topLine="102" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
